@@ -1,0 +1,16 @@
+{
+  "name": "next-13",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "next": "^12.3.2-canary.27",
+    "react": "^0.0.0-experimental-a8c16a004-20221012",
+    "react-dom": "^0.0.0-experimental-a8c16a004-20221012"
+  }
+}
